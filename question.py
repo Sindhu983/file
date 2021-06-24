@@ -1,0 +1,5 @@
+file=open("question.txt","r+")
+c=file.read()
+file1=file.write("\nI'm a navgurukul student")
+print(file1)
+file.close()
